@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sucharitha--gaddam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sucharitha-gaddam)
 [![GitHub](https://img.shields.io/badge/GitHub-sucharitha1812-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sucharitha1812)
-[![Email](https://img.shields.io/badge/Email-sucharithareddy%40usf.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sucharitha1812@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sucharitha1812%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sucharitha1812@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=sucharitha1812&style=for-the-badge&color=blue)
 
 </div>
