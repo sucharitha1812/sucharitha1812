@@ -199,17 +199,6 @@ PostgreSQL optimization project using **indexing, partitioning, EXPLAIN ANALYZE,
 
 ---
 
-## GitHub Snapshot
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sucharitha1812&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucharitha1812&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
 ## Education & Professional Background
 
 - **M.S. in Artificial Intelligence and Business Analytics** — University of South Florida, **May 2026** | **GPA: 4.0/4.0**
