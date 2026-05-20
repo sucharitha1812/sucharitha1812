@@ -209,7 +209,7 @@ PostgreSQL optimization project using **indexing, partitioning, EXPLAIN ANALYZE,
 
 ## Contact
 
-- **Email:** [sucharitha1812@gmail.com](mailto:sucharithar1812@gmail.com)
+- **Email:** [sucharitha1812@gmail.com](mailto:sucharitha1812@gmail.com)
 - **LinkedIn:** [linkedin.com/in/sucharitha-gaddam](https://linkedin.com/in/sucharitha-gaddam)
 - **GitHub:** [github.com/sucharitha1812](https://github.com/sucharitha1812)
 - **Location:** Tampa, FL
