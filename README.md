@@ -202,7 +202,7 @@ PostgreSQL optimization project using **indexing, partitioning, EXPLAIN ANALYZE,
 ## Education & Professional Background
 
 - **M.S. in Artificial Intelligence and Business Analytics** — University of South Florida, **May 2026** | **GPA: 4.0/4.0**
-- **Graduate Assistant experience, University of South Florida** — supported analytics instruction, statistical analysis, dashboard evaluation, grading, and student project guidance
+- **Graduate Assistant experience, University of South Florida** — implemented analytics evaluation workflows across statistical analysis, dashboard review, business decision modeling, grading operations, and project quality assessment
 - **4+ years of combined systems engineering, analytics, and data-oriented workflow experience**, including exposure to ETL processes, SQL analytics, cloud data platforms, automation, reporting, and stakeholder collaboration
 
 ---
