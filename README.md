@@ -83,7 +83,7 @@ My portfolio brings together **data engineering, analytics engineering, data sci
 |---|---|
 | Data & Analytics | Experience working with SQL analytics, ETL workflows, dashboards, reporting, and data validation |
 | Cloud & Automation | Hands-on exposure to cloud-based data workflows, orchestration, automation, and monitoring concepts |
-| Graduate Assistantship | Supported analytics instruction, Excel/R-based statistical analysis, dashboard evaluation, grading, and student project guidance |
+| Graduate Assistantship | Implemented analytics instruction, Excel/R-based statistical analysis, dashboard evaluation, grading, and student project guidance |
 | Machine Learning | Built academic and portfolio projects across forecasting, NLP, anomaly detection, computer vision, risk prediction, and classification |
 | Communication | Experienced in explaining analytical results, documenting workflows, and translating data findings into practical recommendations |
 
