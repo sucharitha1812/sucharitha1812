@@ -9,7 +9,6 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-sucharitha1812-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sucharitha1812)
 [![Email](https://img.shields.io/badge/Email-sucharithagaddam18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sucharithagaddam18@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=sucharitha1812&style=for-the-badge&color=blue)
 
@@ -39,39 +38,49 @@ My work and portfolio include predictive modeling, NLP, computer vision, forecas
 
 ## Tech Stack
 
-### Languages & Analytics
+### AI, Machine Learning & Generative AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2D3748?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-5C2D91?style=flat-square)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+
+### Data Science & Analytics
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 ### Data Engineering & Big Data
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
-### Cloud, Databases & Tools
+### Cloud, MLOps & Deployment
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### Databases & Vector Search
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
-
-### Machine Learning, AI & BI
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7B61FF?style=flat-square)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-4B5563?style=flat-square)
 
 ---
 
@@ -146,18 +155,15 @@ PostgreSQL optimization project using **indexing, partitioning, EXPLAIN ANALYZE,
 
 ## Portfolio Map
 
-### Data Engineering & Analytics Engineering
+### AI, GenAI & LLM Applications
 
 | Project | What It Demonstrates | Stack |
 |---|---|---|
-| [formula1-predictive-analytics-platform](https://github.com/sucharitha1812/formula1-predictive-analytics-platform) | Predictive analytics pipeline and BI workflow | PostgreSQL, dbt, XGBoost, Airflow, Docker |
-| [real-time-iot-air-quality-pipeline](https://github.com/sucharitha1812/real-time-iot-air-quality-pipeline) | Real-time streaming and IoT analytics | Kafka, Spark, MongoDB, Docker |
-| [movielens-data-warehouse](https://github.com/sucharitha1812/movielens-data-warehouse) | Data warehousing and dimensional modeling | Python, PostgreSQL, SQL, Tableau |
-| [streamflix-db-performance-optimization](https://github.com/sucharitha1812/streamflix-db-performance-optimization) | SQL tuning and database optimization | PostgreSQL, Indexing, Partitioning, Docker |
-| [hadoop-ecommerce-analytics](https://github.com/sucharitha1812/hadoop-ecommerce-analytics) | Distributed batch analytics | Hadoop, HDFS, YARN, MRJob, Python |
-| [fleet-telemetry-mongodb-platform](https://github.com/sucharitha1812/fleet-telemetry-mongodb-platform) | NoSQL IoT data modeling | MongoDB, Aggregation, Indexing |
-| [fleet-telemetry-cassandra-platform](https://github.com/sucharitha1812/fleet-telemetry-cassandra-platform) | Distributed NoSQL design | Cassandra, CQL, Docker |
-| [multi-region-fleet-iot-database-architecture](https://github.com/sucharitha1812/multi-region-fleet-iot-database-architecture) | Multi-region distributed database architecture | CockroachDB, Docker, Python, SQL |
+| [rag-document-intelligence-platform](https://github.com/sucharitha1812/rag-document-intelligence-platform) | Document intelligence and RAG | FastAPI, React, Vector Search |
+| [agentic-research-workflow-platform](https://github.com/sucharitha1812/agentic-research-workflow-platform) | Multi-agent research orchestration | LangGraph, FastAPI, React, Ollama |
+| [context-aware-browser-assistant](https://github.com/sucharitha1812/context-aware-browser-assistant) | Privacy-first browser AI assistant | React, TypeScript, Chrome Extension, Ollama |
+| [multimodal-audio-generation-platform](https://github.com/sucharitha1812/multimodal-audio-generation-platform) | Text-to-audio generation optimization | AudioLDM, CLAP, PyTorch |
+| [autonomous-ai-code-repair-platform](https://github.com/sucharitha1812/autonomous-ai-code-repair-platform) | AI-powered code repair and validation | LangGraph, Docker, GitHub API, pytest |
 
 ---
 
@@ -176,15 +182,18 @@ PostgreSQL optimization project using **indexing, partitioning, EXPLAIN ANALYZE,
 
 ---
 
-### AI, GenAI & LLM Applications
+### Data Engineering & Analytics Engineering
 
 | Project | What It Demonstrates | Stack |
 |---|---|---|
-| [rag-document-intelligence-platform](https://github.com/sucharitha1812/rag-document-intelligence-platform) | Document intelligence and RAG | FastAPI, React, Vector Search |
-| [agentic-research-workflow-platform](https://github.com/sucharitha1812/agentic-research-workflow-platform) | Multi-agent research orchestration | LangGraph, FastAPI, React, Ollama |
-| [context-aware-browser-assistant](https://github.com/sucharitha1812/context-aware-browser-assistant) | Privacy-first browser AI assistant | React, TypeScript, Chrome Extension, Ollama |
-| [multimodal-audio-generation-platform](https://github.com/sucharitha1812/multimodal-audio-generation-platform) | Text-to-audio generation optimization | AudioLDM, CLAP, PyTorch |
-| [autonomous-ai-code-repair-platform](https://github.com/sucharitha1812/autonomous-ai-code-repair-platform) | AI-powered code repair and validation | LangGraph, Docker, GitHub API, pytest |
+| [formula1-predictive-analytics-platform](https://github.com/sucharitha1812/formula1-predictive-analytics-platform) | Predictive analytics pipeline and BI workflow | PostgreSQL, dbt, XGBoost, Airflow, Docker |
+| [real-time-iot-air-quality-pipeline](https://github.com/sucharitha1812/real-time-iot-air-quality-pipeline) | Real-time streaming and IoT analytics | Kafka, Spark, MongoDB, Docker |
+| [movielens-data-warehouse](https://github.com/sucharitha1812/movielens-data-warehouse) | Data warehousing and dimensional modeling | Python, PostgreSQL, SQL, Tableau |
+| [streamflix-db-performance-optimization](https://github.com/sucharitha1812/streamflix-db-performance-optimization) | SQL tuning and database optimization | PostgreSQL, Indexing, Partitioning, Docker |
+| [hadoop-ecommerce-analytics](https://github.com/sucharitha1812/hadoop-ecommerce-analytics) | Distributed batch analytics | Hadoop, HDFS, YARN, MRJob, Python |
+| [fleet-telemetry-mongodb-platform](https://github.com/sucharitha1812/fleet-telemetry-mongodb-platform) | NoSQL IoT data modeling | MongoDB, Aggregation, Indexing |
+| [fleet-telemetry-cassandra-platform](https://github.com/sucharitha1812/fleet-telemetry-cassandra-platform) | Distributed NoSQL design | Cassandra, CQL, Docker |
+| [multi-region-fleet-iot-database-architecture](https://github.com/sucharitha1812/multi-region-fleet-iot-database-architecture) | Multi-region distributed database architecture | CockroachDB, Docker, Python, SQL |
 
 ---
 
