@@ -9,9 +9,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sucharitha--gaddam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sucharitha-gaddam)
 [![GitHub](https://img.shields.io/badge/GitHub-sucharitha1812-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sucharitha1812)
-[![Email](https://img.shields.io/badge/Email-sucharitha1812%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sucharitha1812@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sucharithagaddam18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sucharithagaddam18@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=sucharitha1812&style=for-the-badge&color=blue)
 
 </div>
@@ -20,11 +19,11 @@
 
 ## About Me
 
-I am a **M.S. graduate in Artificial Intelligence and Business Analytics from the University of South Florida**, with a **4.0/4.0 GPA** and **4+ years of combined experience** across **data analytics, ETL workflows, SQL, cloud platforms, dashboarding, automation, and machine learning applications**.
+I am an AI/ML and data science professional with experience across machine learning, deep learning, Generative AI, data analytics, data engineering, cloud platforms, and automation.
 
-My portfolio brings together **data engineering, analytics engineering, data science, machine learning, deep learning, real-time streaming, big data, BI dashboards, RAG systems, and AI agents**. I enjoy building practical systems that move from raw data to reliable insights, predictive models, and decision-ready applications.
+My work and portfolio include predictive modeling, NLP, computer vision, forecasting, anomaly detection, RAG systems, AI agents, real-time data pipelines, and analytics workflows. I enjoy building practical AI and data solutions that transform complex information into reliable models, intelligent applications, and useful business insights.
 
-> Currently focused on: **Data Science • Data Engineering • AI/ML Engineering • Analytics Engineering • Business Intelligence**
+> Primary focus: **AI/ML Engineering • Data Science • Applied AI • Generative AI**
 
 ---
 
