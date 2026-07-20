@@ -2,10 +2,10 @@
 
 # Hi, I'm Sucharitha Reddy Gaddam 👋
 
-### M.S. in AI & Business Analytics | Data & AI Portfolio  
-### Data Analytics • Data Science • Data Engineering • AI/ML • Business Intelligence
+### AI/ML Engineer | Data Scientist | Applied AI Professional  
+### Machine Learning • Deep Learning • Generative AI • Data Science • Data Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&center=true&vCenter=true&width=900&lines=Turning+data+into+insights%2C+models%2C+and+decision-ready+systems;Building+ETL+pipelines%2C+BI+dashboards%2C+ML+models%2C+and+GenAI+applications;Python+%7C+SQL+%7C+AWS+%7C+Airflow+%7C+Spark+%7C+Power+BI+%7C+Machine+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&center=true&vCenter=true&width=900&lines=Building+machine+learning%2C+deep+learning%2C+and+AI-powered+systems;Developing+predictive+models%2C+RAG+applications%2C+and+agentic+workflows;Python+%7C+PyTorch+%7C+TensorFlow+%7C+LangChain+%7C+AWS+%7C+Data+Science" alt="Typing SVG" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 ## About Me
 
-I am a recent **M.S. graduate in Artificial Intelligence and Business Analytics from the University of South Florida**, with a **4.0/4.0 GPA** and **4+ years of combined experience** across **data analytics, ETL workflows, SQL, cloud platforms, dashboarding, automation, and machine learning applications**.
+I am a **M.S. graduate in Artificial Intelligence and Business Analytics from the University of South Florida**, with a **4.0/4.0 GPA** and **4+ years of combined experience** across **data analytics, ETL workflows, SQL, cloud platforms, dashboarding, automation, and machine learning applications**.
 
 My portfolio brings together **data engineering, analytics engineering, data science, machine learning, deep learning, real-time streaming, big data, BI dashboards, RAG systems, and AI agents**. I enjoy building practical systems that move from raw data to reliable insights, predictive models, and decision-ready applications.
 
@@ -30,13 +30,12 @@ My portfolio brings together **data engineering, analytics engineering, data sci
 
 ## What I Do Best
 
-- Build **end-to-end data pipelines** using Python, SQL, Airflow, Spark, Kafka, and cloud services
-- Design **analytics-ready databases and warehouses** using PostgreSQL, MySQL, MongoDB, Cassandra, and CockroachDB
-- Develop **machine learning models** for forecasting, classification, NLP, anomaly detection, and computer vision
-- Create **BI dashboards and analytical reports** using Power BI, Tableau, Excel, and SQL
-- Build **GenAI and RAG applications** using FastAPI, React, LangChain, LangGraph, embeddings, and vector databases
-- Translate technical results into **business insights, recommendations, and measurable impact**
-
+- Build machine learning and deep learning solutions for forecasting, classification, NLP, anomaly detection, and computer vision
+- Develop Generative AI, RAG, and agentic applications using LangChain, LangGraph, embeddings, and vector databases
+- Prepare, analyze, and validate structured and unstructured data for modeling and decision support
+- Design predictive workflows using Python, SQL, Scikit-learn, PyTorch, TensorFlow, and XGBoost
+- Build data pipelines using Airflow, Spark, Kafka, cloud services, and analytics databases
+- Communicate model results through dashboards, reports, explainability methods, and practical recommendations
 ---
 
 ## Tech Stack
@@ -81,11 +80,12 @@ My portfolio brings together **data engineering, analytics engineering, data sci
 
 | Area | Summary |
 |---|---|
-| Data & Analytics | Experience working with SQL analytics, ETL workflows, dashboards, reporting, and data validation |
-| Cloud & Automation | Hands-on exposure to cloud-based data workflows, orchestration, automation, and monitoring concepts |
-| Graduate Assistantship | Implemented analytics instruction, Excel/R-based statistical analysis, dashboard evaluation, grading, and student project guidance |
-| Machine Learning | Built academic and portfolio projects across forecasting, NLP, anomaly detection, computer vision, risk prediction, and classification |
-| Communication | Experienced in explaining analytical results, documenting workflows, and translating data findings into practical recommendations |
+| AI/ML Engineering | Built machine learning, deep learning, NLP, computer vision, forecasting, and optimization solutions |
+| Data Science | Worked with data preparation, feature engineering, statistical analysis, model evaluation, and predictive analytics |
+| Generative AI | Developed RAG systems, semantic-search applications, agentic workflows, and AI-assisted automation |
+| Data Engineering | Built ETL pipelines, streaming workflows, orchestration systems, and analytics-ready data platforms |
+| Cloud & MLOps | Worked with cloud platforms, Docker, model deployment, workflow automation, monitoring, and scalable processing |
+| Analytics | Created dashboards, reports, SQL analyses, and decision-support outputs for practical use cases |
 
 ---
 
@@ -201,26 +201,21 @@ PostgreSQL optimization project using **indexing, partitioning, EXPLAIN ANALYZE,
 
 ## Education & Professional Background
 
-- **M.S. in Artificial Intelligence and Business Analytics** — University of South Florida, **May 2026** | **GPA: 4.0/4.0**
-- **Graduate Assistant experience, University of South Florida** — implemented analytics evaluation workflows across statistical analysis, dashboard review, business decision modeling, grading operations, and project quality assessment
-- **4+ years of combined systems engineering, analytics, and data-oriented workflow experience**, including exposure to ETL processes, SQL analytics, cloud data platforms, automation, reporting, and stakeholder collaboration
+- **M.S. in Artificial Intelligence and Business Analytics** — University of South Florida
+- Professional background across AI, machine learning, data science, analytics, automation, and cloud-based workflows
+- Portfolio experience spanning predictive modeling, deep learning, Generative AI, RAG, data engineering, and intelligent systems
 
 ---
 
 ## Contact
 
-- **Email:** [sucharitha1812@gmail.com](mailto:sucharitha1812@gmail.com)
-- **LinkedIn:** [linkedin.com/in/sucharitha-gaddam](https://linkedin.com/in/sucharitha-gaddam)
-- **GitHub:** [github.com/sucharitha1812](https://github.com/sucharitha1812)
-- **Location:** Tampa, FL
+- **Email:** [sucharithagaddam18@gmail.com](mailto:sucharithagaddam18@gmail.com)
 
 ---
 
-## Open To
+## Professional Interests
 
-As a recent May 2026 graduate, I am actively exploring opportunities in:
-
-`Data Analyst` `Business Intelligence Analyst` `Data Scientist` `Data Engineer` `Analytics Engineer` `AI Engineer` `Machine Learning Engineer` `Cloud Data Engineer`
+`AI/ML Engineering` `Data Science` `Applied AI` `Generative AI` `Machine Learning` `Data Engineering`
 
 ---
 
@@ -228,7 +223,7 @@ As a recent May 2026 graduate, I am actively exploring opportunities in:
 
 ### Thanks for visiting my profile!
 
-If you're interested in data, analytics, AI systems, or applied machine learning, feel free to connect.
+If you're interested in AI/ML, data science, Generative AI, or practical intelligent systems, feel free to connect.
 
 </div>
 
